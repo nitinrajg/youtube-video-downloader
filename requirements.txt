@@ -1,1 +1,6 @@
-gunicorn == 23.0.0
+Django==5.0.2
+gunicorn==23.0.0
+yt-dlp==2024.3.10
+python-multipart==0.0.9
+django-cors-headers==4.3.1
+whitenoise==6.6.0  # For serving static files
