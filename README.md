@@ -111,6 +111,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/vieurl](https://github.com/yourusername/vieurl) 
+Your Name - [@yourgithub](https://www.linkedin.com/in/vishwanath-nitin-raj-33b1022b9/)
+Project Link: [https://github.com/yourusername/vieurl](https://github.com/nitinrajg/vieurl) 
